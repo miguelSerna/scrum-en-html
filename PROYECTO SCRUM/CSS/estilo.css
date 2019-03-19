@@ -1,0 +1,131 @@
+#principal{
+	width: 900PX;
+	height: auto; overflow: hidden;
+	border: 0PX solid #000;
+	margin: auto;
+}
+header{
+	width: 900px;
+	height: 100px;
+	border: 0px solid #000;
+}
+#logo{
+	width: 400px;
+	height: 110px;
+	border: 0px solid #000;
+	float: left;
+}
+
+.menu{
+	width: 460px;
+	height: 40px;
+	border: 1px solid #ccc;
+	float: right;
+	margin-top: 20px;
+	background: #006699;
+}
+
+.menu ul{}
+.menu ul li{
+	list-style: none;
+	float: left;
+
+}
+
+.menu ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	border: 0px solid #ccc;
+	color: #fff;
+}
+
+.menu ul li a:hover{
+	background: #fff;
+	color: #006699;
+}
+
+#slide{
+	margin-top: -5px;
+	width: 900px;
+	height: 200px;
+
+}
+
+#categorias{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 1px solid;
+	margin-top: 15px;
+}
+
+.uno{
+	width: 280px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;;
+	float: left;
+	padding: 5px;
+	text-align: center;
+	color: #4682b4;
+}
+
+.parrafo{
+	color: #707070;
+}
+
+.dos{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.leer-mas{
+	text-decoration: none;
+	border: 1px solid #ccc;
+	padding: 10px 20px 10px 20px;
+	margin: 10px;
+
+}
+
+#categorias{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;;
+	margin-top: 10px;
+}
+
+.uno{
+	width: 280px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;;
+	float: left;
+	padding: 5px;
+	text-align: center;
+}
+
+.dos{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#info{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #ccc;
+	margin-top: 10px;
+}
+
+#izq{
+	width: 450px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 5px;
+}
+
+#der{
+	width: 430px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: right;
+}
+
+
